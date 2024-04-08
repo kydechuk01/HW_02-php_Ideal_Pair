@@ -235,7 +235,7 @@ echo (getPerfectPartner('Обло', 'Чудище', 'Стозевно', $example
     </>
     </main>
     <footer>
-        Страница проекта на github: 
+        Страница проекта на github: <a href="https://github.com/kydechuk01/HW_02-php_Ideal_Pair">kydechuk01/HW_02-php_Ideal_Pair</a><br> 
         Выполнил: Александр Климок (<a href="https://github.com/kydechuk01/">kydechuk01</a>)<br>
         Курс: PHPPRO_19<br>
         Дата: 08.04.2024
