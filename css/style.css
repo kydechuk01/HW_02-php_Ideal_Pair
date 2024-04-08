@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2, h3 {
+    margin-top: 2rem;
+}
+footer {
+    border-top: 1px solid grey;
+    margin: 2rem 0 1rem;
+    padding-top: 1rem;
+    color: rgb(2, 101, 5);
+}
+footer a {
+    color: rgb(60, 60, 60);
+}
+
+footer a:hover, hr {
+    color: rgb(1, 146, 1);
+}
+
+h4 {
+    color: rgb(156, 156, 156);
+    border-bottom: 1px solid silver;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    padding: 0;
+}
+
+.pair {
+    color: red;
+}
